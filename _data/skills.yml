@@ -1,0 +1,12 @@
+- layout: left
+  name: "Languages:"
+  description: Javascript, HTML5, CSS, Java, SQL
+- layout: left
+  name: "Tools:"
+  description: Node.js, Express, React, Redux, ChartJS, Mocha, Firebase
+- layout: left
+  name: "Database:"
+  description: MySQL, PostgreSQL, DynamoDB, Firestore
+- layout: left
+  name: "Workflow:"
+  description: JIRA, Git, AGILE development, Object Oriented Programming, Unit and Integration Testing

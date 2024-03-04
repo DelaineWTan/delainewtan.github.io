@@ -6,7 +6,7 @@
   # github: 
   description_list:
     - text: Worked in a group of six to develop a cute 3D bullet hell single player game on IOS, loosely inspired by Vampire Survivors.
-    - text: Contributions include project management, game design, player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX etc. 
+    - text: Contributions include project management, game design and creative direction, player controls, quality assurance and testing.
     - text: "Technologies used: Xcode, Swift, Blender, Trello"
 - layout: left
   name: Hakuna Banana
@@ -16,7 +16,7 @@
   description_list:
     - text: "Global Game Jam page: https://globalgamejam.org/games/2024/hakuna-banana-1"
     - text: Worked in a group of five to develop a lighthearted 2D turn-based local multiplayer platformer game on PC, heavily influenced by Worms Armageddon, designed to fit the game jam theme "Make Me Laugh" 
-    - text: Contributions include project management, game design, player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX etc. 
+    - text: Contributions include project management, game design and creative direction, player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX etc. 
     - text: "Technologies used: Unity, C#, Visual Studio, Trello"
 - layout: left
   name: Immunity Reborn
@@ -25,5 +25,5 @@
   # github: 
   description_list:
     - text: Worked in a group of three to develop a 3D fast-paced survival rogue-lite single player action RPG on PC.
-    - text: Contributions include level design, all of the game's SFX, VFX and background music, creating the ranged enemies and mini boss, spawn management and difficulty systems, extensive internal testing and QA changes.
+    - text: Contributions include level design, all of the game's SFX, VFX and background music, creating the ranged enemies and mini boss, spawn management and difficulty systems, extensive integration testing and QA changes.
     - text: "Technologies used: Unity, C#, Visual Studio, Trello"

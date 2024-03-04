@@ -1,19 +1,29 @@
 # Project template
 - layout: left
-  name: Soliclarity
-  dates: November 2021
-  link: https://soliclarity-dbb49.web.app
+  name: Snactuary
+  dates: April 2024
+  link: https://github.com/DelaineWTan/Snactuary
   # github: 
   description_list:
-    - text: Worked in a group of three to develop a student productivity app that allows users to collaborate to maintain up-to-date data on academic deadlines, and keeps them informed of events sorted by urgency. 
-    - text: Primary responsibilities included project management and developing the business logic of the application including communication with firestore.
-    - text: "Technologies used: HTML, CSS, Javascript, Bootstrap, Firebase."
+    - text: Worked in a group of six to develop a cute 3D bullet hell single player game on IOS, loosely inspired by Vampire Survivors.
+    - text: Contributions include project management, game design, player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX etc. 
+    - text: "Technologies used: Xcode, Swift, Blender, Trello"
 - layout: left
-  name: Hordeland
-  dates: August 2018
-  link: http://hordeland.herokuapp.com
+  name: Hakuna Banana (Global Game Jam 2024)
+  dates: January 2024
+  link: https://cheesypudding.itch.io/hakuna-banana
   # github: 
   description_list:
-    - text: Worked with a partner to develop a top-down 2D multiplayer web game where all players are put in the same game instance and pitted against each other and against non-player opponents.
-    - text: Personal responsibilities mainly consisted of developing the game logic and user interface of the game, and was responsible for a majority of the overall game design.
-    - text: "Technologies used: HTML, CSS, Javascript, Node.js, Express, Socket.IO, React."
+    - text: "Global Game Jam page: https://globalgamejam.org/games/2024/hakuna-banana-1"
+    - text: Worked in a group of five to develop a lighthearted 2D turn-based local multiplayer platformer game on PC, heavily influenced by Worms Armageddon, designed to fit the game jam theme "Make Me Laugh" 
+    - text: Contributions include project management, game design, player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX etc. 
+    - text: "Technologies used: Unity, C#, Visual Studio, Trello"
+- layout: left
+  name: Immunity Reborn
+  dates: December 2023
+  link: https://delainetan.itch.io/immunity-reborn
+  # github: 
+  description_list:
+    - text: Worked in a group of three to develop a 3D fast-paced survival rogue-lite single player action RPG on PC.
+    - text: Contributions include level design, all of the game's SFX, VFX and background music, creating the ranged enemies and mini boss, spawn management and difficulty systems, extensive internal testing and QA changes.
+    - text: "Technologies used: Unity, C#, Visual Studio, Trello"

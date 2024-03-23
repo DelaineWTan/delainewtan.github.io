@@ -1,7 +1,7 @@
 # Project template
 - layout: left
   name: Snactuary
-  dates: April 2024
+  dates: Jan - Apr 2024
   link: https://github.com/DelaineWTan/Snactuary
   # github: 
   description_list:
@@ -20,7 +20,7 @@
     - text: "Technologies used: Unity, C#, Visual Studio, Trello"
 - layout: left
   name: Immunity Reborn
-  dates: December 2023
+  dates: Sep - Dec 2023
   link: https://delainetan.itch.io/immunity-reborn
   # github: 
   description_list:

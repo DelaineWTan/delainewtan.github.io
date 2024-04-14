@@ -28,5 +28,5 @@
   # github: 
   description_list:
     - text: Worked in a 3-person team to develop a 3D fast-paced survival rogue-lite single player action RPG on PC.
-    - text: Level designer, added all of the game's SFX, VFX and background music, creating the ranged enemies and mini boss, spawn management and difficulty systems, extensive integration testing and QA changes.
+    - text: Gameplay programmer, managed all of the game's level design, SFX, VFX and background music. Created the ranged enemies and mini boss, developed spawn management and difficulty systems, performed extensive integration testing and QA changes.
     - text: "Technologies used: Unity, C#, Visual Studio, Trello"

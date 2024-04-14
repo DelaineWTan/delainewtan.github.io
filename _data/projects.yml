@@ -2,28 +2,31 @@
 - layout: left
   name: Snactuary
   dates: Jan - Apr 2024
+  company: Advanced Games Architecture Course (BCIT)
   link: https://github.com/DelaineWTan/Snactuary
   # github: 
   description_list:
-    - text: Worked in a group of six to develop a cute 3D bullet hell single player game on IOS, loosely inspired by Vampire Survivors.
-    - text: Contributions include project management, game design and creative direction, player controls, quality assurance and testing.
+    - text: Worked in a 5-person team to develop a cute 3D bullet hell single player game on IOS, loosely inspired by Vampire Survivors.
+    - text: Project lead, game design and creative direction, player controls, quality assurance and testing.
     - text: "Technologies used: Xcode, Swift, Blender, Trello"
 - layout: left
   name: Hakuna Banana
   dates: January 2024
+  company: Global Game Jam Vancouver 2024
   link: https://cheesypudding.itch.io/hakuna-banana
   # github: 
   description_list:
     - text: "Global Game Jam page: https://globalgamejam.org/games/2024/hakuna-banana-1"
-    - text: Worked in a group of five to develop a lighthearted 2D turn-based local multiplayer platformer game on PC, heavily influenced by Worms Armageddon, designed to fit the game jam theme "Make Me Laugh" 
-    - text: Contributions include project management, game design and creative direction, player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX etc. 
+    - text: Worked in a 5-person team to develop a lighthearted 2D turn-based local multiplayer platformer game on PC, heavily influenced by Worms Armageddon, designed to fit the game jam theme "Make Me Laugh" 
+    - text: Project lead, game design and creative direction, player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX etc. 
     - text: "Technologies used: Unity, C#, Visual Studio, Trello"
 - layout: left
   name: Immunity Reborn
   dates: Sep - Dec 2023
+  company: Introduction to Computer Games Development Course (BCIT)
   link: https://delainetan.itch.io/immunity-reborn
   # github: 
   description_list:
-    - text: Worked in a group of three to develop a 3D fast-paced survival rogue-lite single player action RPG on PC.
-    - text: Contributions include level design, all of the game's SFX, VFX and background music, creating the ranged enemies and mini boss, spawn management and difficulty systems, extensive integration testing and QA changes.
+    - text: Worked in a 3-person team to develop a 3D fast-paced survival rogue-lite single player action RPG on PC.
+    - text: Level designer, added all of the game's SFX, VFX and background music, creating the ranged enemies and mini boss, spawn management and difficulty systems, extensive integration testing and QA changes.
     - text: "Technologies used: Unity, C#, Visual Studio, Trello"

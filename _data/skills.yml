@@ -3,10 +3,10 @@
   description: C#, C, Swift, Python, Javascript, HTML5, CSS, Java, SQL
 - layout: left
   name: "Development Tools:"
-  description: Unity, XCode, Node.js, Express, React, Redux, Mocha, Firebase, Git, Github, Trello, Jira, Machine Learning
+  description: Unity, XCode, Node.js, Express, React, Redux, Mocha, Firebase, Git, Github, Trello, Jira 
 - layout: left
   name: "Database Technologies:"
   description: MySQL, PostgreSQL, DynamoDB, Firestore, MongoDB
 - layout: left
   name: "Workflow and Methodologies:"
-  description: Project Management, Version Control, AGILE Development, Object Oriented Programming, Unit and Integration Testing
+  description: Project Management, Version Control, Machine Learning, AGILE Development, Object Oriented Programming, Unit/Integration Testing

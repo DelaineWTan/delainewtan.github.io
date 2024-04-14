@@ -3,9 +3,9 @@ repository: sproogen/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
+name: Delaine Tan
+title: Software Developer
+email: delainewtan@gmail.com
 phone: 07845248563
 website: sproogen.github.io/modern-resume-theme
 

@@ -9,4 +9,4 @@
   description: MySQL, PostgreSQL, DynamoDB, Firestore, MongoDB
 - layout: left
   name: "Workflow and Methodologies:"
-  description: Project Management, Version Control, Machine Learning, AGILE Development, Object Oriented Programming, Unit/Integration Testing
+  description: Version Control, Machine Learning, Project Management, AGILE Development, Object Oriented Programming, Unit/Integration Testing

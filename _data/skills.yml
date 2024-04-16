@@ -5,8 +5,8 @@
   name: "Development Tools:"
   description: Unity, XCode, Node.js, Express, React, Redux, Mocha, Firebase, Git, Github, Trello, Jira 
 - layout: left
-  name: "Database Technologies:"
-  description: MySQL, PostgreSQL, DynamoDB, Firestore, MongoDB
+  name: "Data Storage Technologies:"
+  description: MySQL, PostgreSQL, DynamoDB, Firestore, MongoDB, Web Cookies/Local Storage, Mobile Cache Data
 - layout: left
   name: "Workflow and Methodologies:"
   description: Version Control, Machine Learning, Project Management, AGILE Development, Object Oriented Programming, Unit/Integration Testing

@@ -260,7 +260,7 @@ body {
         justify-content: space-between;
     }
 
-    .left, .right {
-        flex: 1;
+    .right {
+        margin-left: auto;
     }
 }

@@ -9,10 +9,10 @@
         {%- if include.item.job_title -%}<h4>{{ include.item.job_title }}</h4>{%- endif -%}
         {%- if include.item.company -%}<p class="no-print">{{ include.item.company }}</p>{%- endif -%}
         {%- if include.item.dates -%}<p class="no-print">{{ include.item.dates }}</p>{%- endif -%}
-        <div class="same-row-container print-only">
-            {%- if include.item.company -%}<p class="left print-only">{{ include.item.company }}</p>{%- endif -%}
-            {%- if include.item.dates -%}<p class="right print-only">{{ include.item.dates }}</p>{%- endif -%}
-        </div>
+        <p class="same-row-container print-only">
+            {%- if include.item.company -%}<span class="left print-only">{{ include.item.company }}</span>{%- endif -%}
+            {%- if include.item.dates -%}<span class="right print-only">{{ include.item.dates }}</span>{%- endif -%}
+        </p>
 
         {%- if include.item.github -%}
         <a href="https://github.com/{{ include.item.github }}" class="link"><i class="fa fa-github"></i> <span class="print-only">https://github.com{{ include.item.github }}</span></a><br class="print-only">

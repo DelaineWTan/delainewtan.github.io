@@ -254,15 +254,15 @@ body {
     .no-print, .no-print * {
         display: none !important;
     }
+}
 
-    .same-row-container {
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
-        background-color: black;
-    }
+.same-row-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
 
-    .right {
-        margin-left: auto;
-    }
+.right {
+    margin-left: auto;
 }

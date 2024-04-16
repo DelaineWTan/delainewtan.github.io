@@ -13,9 +13,18 @@
 .left, .right {
     display: inline;
     flex: 1;
+
+    .print-only {
+        display: none;
+
+        @media print {
+            display: inline;
+        }
+    }
 }
 
 .right {
     margin-left: auto;
     text-align: right;
 }
+

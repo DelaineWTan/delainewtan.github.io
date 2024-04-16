@@ -10,7 +10,8 @@
         {%- if include.item.company -%}<p class="no-print">{{ include.item.company }}</p>{%- endif -%}
         {%- if include.item.dates -%}<p class="no-print">{{ include.item.dates }}</p>{%- endif -%}
         <p class="same-row-container print-only">
-            {{ include.item.company }}{{ include.item.dates }}
+            <span class="left">{{ include.item.company }}</span>
+            <span class="right">{{ include.item.dates }}</span>
         </p>
 
         {%- if include.item.github -%}

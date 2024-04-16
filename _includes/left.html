@@ -7,10 +7,13 @@
         {%- endif -%}
         {%- if include.item.qualification -%}<h4>{{ include.item.qualification }}</h4>{%- endif -%}
         {%- if include.item.job_title -%}<h4>{{ include.item.job_title }}</h4>{%- endif -%}
-        <div class="same-row-container">
+        {%- if include.item.company -%}<p class="no-print">{{ include.item.company }}</p>{%- endif -%}
+        {%- if include.item.dates -%}<p class="no-print">{{ include.item.dates }}</p>{%- endif -%}
+        <div class="same-row-container print-only">
             {%- if include.item.company -%}<p class="left">{{ include.item.company }}</p>{%- endif -%}
             {%- if include.item.dates -%}<p class="right">{{ include.item.dates }}</p>{%- endif -%}
         </div>
+
         {%- if include.item.github -%}
         <a href="https://github.com/{{ include.item.github }}" class="link"><i class="fa fa-github"></i> <span class="print-only">https://github.com{{ include.item.github }}</span></a><br class="print-only">
         {%- endif -%}

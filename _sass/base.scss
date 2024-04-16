@@ -254,4 +254,13 @@ body {
     .no-print, .no-print * {
         display: none !important;
     }
+
+    .same-row-container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .left, .right {
+        flex: 1;
+    }
 }

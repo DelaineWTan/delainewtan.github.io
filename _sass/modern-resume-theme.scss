@@ -233,19 +233,3 @@ table, tr {
 .fa {
   vertical-align: middle;
 }
-
-.same-row-container {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-}
-
-.left, .right {
-    display: inline;
-    flex: 1;
-}
-
-.right {
-    margin-left: auto;
-    text-align: right;
-}

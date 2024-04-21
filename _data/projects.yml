@@ -6,8 +6,8 @@
   link: https://github.com/DelaineWTan/Snactuary
   # github: 
   description_list:
-    - text: Led a 5-person team to develop a cute 3D bullet hell single player game on IOS, loosely inspired by Vampire Survivors using Xcode, Swift and Blender.
-    - text: Project lead, handled game design and creative direction, player controls, quality assurance and testing.
+    - text: Project lead for a 5-person team, developed a cute 3D bullet hell single player game on IOS, loosely inspired by Vampire Survivors using Xcode, Swift and Blender.
+    - text: Handled project management, game design and creative direction, player controls, quality assurance and testing.
 - layout: left
   name: Hakuna Banana
   dates: Jan 2024
@@ -16,8 +16,8 @@
   # github: 
   description_list:
     - text: "Global Game Jam page: https://globalgamejam.org/games/2024/hakuna-banana-1"
-    - text: Led a 5-person team to develop a lighthearted 2D turn-based local multiplayer platformer game on PC using Unity, C# and Visual Studio.
-    - text: Project lead, handled game design and creative direction to fit the game jam theme "Make Me Laugh", wrote the player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX etc. 
+    - text: Project lead for a 5-person team, developed a lighthearted 2D turn-based local multiplayer platformer game on PC using Unity, C# and Visual Studio.
+    - text: Handled project management, game design and creative direction to fit the game jam theme "Make Me Laugh", wrote the player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX etc. 
 - layout: left
   name: Immunity Reborn
   dates: Sep - Dec 2023
@@ -25,6 +25,6 @@
   link: https://delainetan.itch.io/immunity-reborn
   # github: 
   description_list:
-    - text: Worked in a 3-person team to develop a 3D fast-paced survival rogue-lite single player action RPG on PC using Unity, C# and Visual Studio.
-    - text: Gameplay programmer, created the ranged enemies and mini boss, developed spawn management system and .
-    - text: Single-handedly handled level design, SFX/VFX, background music, game balancing and difficulty settings. 
+    - text: Gameplay programmer for a 3-person team, developed a 3D fast-paced survival rogue-lite single player action RPG on PC using Unity, C# and Visual Studio.
+    - text: Created the ranged enemies and mini boss, developed spawn management system, assisted in developing every part of the game.
+    - text: Single-handedly handled level design for 5 progressively more complex levels, SFX/VFX, background music, game balancing and difficulty settings. 

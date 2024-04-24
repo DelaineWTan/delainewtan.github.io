@@ -1,18 +1,18 @@
 - layout: left
-  company: British Columbia Institute of Technology
+  company: British Columbia Institute of Technology (95% GPA)
   dates: Sep 2023 - Apr 2026
   qualification: BSc in Applied Computer Science - Game Development Option
-  description: |
-    95% GPA. Learning game design, game development, higher-level mathematics, physics, advanced computing skills and theoretical knowledge.
+  # description: |
+  #   Learning game design, game development, higher-level mathematics, physics, advanced computing skills and theoretical knowledge.
 - layout: left
-  company: British Columbia Institute of Technology
+  company: British Columbia Institute of Technology (91% GPA)
   dates: Sep 2022 - Apr 2023
-  qualification: Computer Systems Technology Diploma
-  description: |
-    91% GPA. Learned computer systems theory, with hands-on practical experience in software development.
+  qualification: Computer Systems Technology Diploma 
+  # description: |
+  #   Learned computer systems theory, with hands-on practical experience in software development.
 - layout: left
   company: Lighthouse Labs
   dates: Jun — Sep 2018
   qualification: Manifesto of Software Craftsmanship
-  description: |
-    Learned web development fundamentals over 10 weeks. Became proficient with HTML, CSS and Javascript.
+  # description: |
+  #  Learned web development fundamentals over 10 weeks. Became proficient with HTML, CSS and Javascript.

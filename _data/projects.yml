@@ -8,6 +8,7 @@
   description_list:
     - text: Project lead for a 6-person team, developed a cute 3D bullet hell single player game on IOS, loosely inspired by Vampire Survivors using Xcode, Swift and Blender.
     - text: Handled project management, game design and creative direction, player controls, quality assurance and testing.
+    - text: Worked on SFX, VFX, background music and mentored all teammates by pair programming and code reviews for all features.
 - layout: left
   name: Hakuna Banana
   dates: Jan 2024
@@ -15,9 +16,9 @@
   link: https://cheesypudding.itch.io/hakuna-banana
   # github: 
   description_list:
-    - text: "Global Game Jam page: https://globalgamejam.org/games/2024/hakuna-banana-1"
     - text: Project lead for a 5-person team, developed a lighthearted 2D turn-based local multiplayer platformer game on PC using Unity, C# and Visual Studio.
-    - text: Handled project management, game design and creative direction to fit the game jam theme "Make Me Laugh", wrote the player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX etc. 
+    - text: Handled project management, game design and creative direction to fit the game jam theme "Make Me Laugh".
+    - text: Wrote the player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX and builds stability. 
 - layout: left
   name: Immunity Reborn
   dates: Sep - Dec 2023

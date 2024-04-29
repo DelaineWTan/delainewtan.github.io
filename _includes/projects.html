@@ -4,8 +4,8 @@
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
     {% if forloop.first %}
         <!-- Add your header here -->
+    <p class="print-only">Delaine Tan, 604-417-6790</p>
     <h3 class="print-only">{{ site.projects_title | default: "Game Development Projects Con't'" }}</h3>
-        <p class="print-only">Delaine Tan, 604-417-6790</p>
         {% endif %}
   {% endfor %}
 </div>

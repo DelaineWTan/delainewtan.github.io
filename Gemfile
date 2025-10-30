@@ -1,2 +1,5 @@
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll", "~> 3.9"
+gem "github-pages", group: :jekyll_plugins
+gem "webrick" # Required for Ruby 3.0+

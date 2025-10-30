@@ -54,12 +54,13 @@ h3 {
   font-size: 3em;
   text-align: center;
   border-top: groove 2px #CCCCCC;
-  padding-top: 20px;
+  padding-top: 10px;
+  border-bottom: groove 2px #CCCCCC;
+  padding-bottom: 10px;
   margin-bottom: 0;
 
   @media print {
     padding: 10px 0;
-    padding-bottom: 0;
     margin-bottom: 0;
   }
 }

@@ -1,9 +1,17 @@
 - layout: left
+  company: Netskrt Systems Inc.
+  job_title: Software Engineer (Co-op)
+  dates: Sep 2024 — Aug 2025
+  description_list:
+    - text: Developed backend systems for CDN infrastructure using Python, Ansible, and Vector.
+    - text: Automated ops tasks with Bash scripts and TMUX, with comprehensive documentation for reproducibility.
+    - text: Worked with K8s, Kafka, Spark, Clickhouse, AWS S3/CEPH, and Postgres in a DevOps environment.
+- layout: left
   company: Lighthouse Labs
   job_title: Project Evaluator
   dates: Sep 2019 — Apr 2020
   description_list:
-    - text: Evaluated project submissions designed to teach students web development fundamentals (Javascript, CSS, HTML5) as well as popular web development frameworks such as React, Redux and Express.
+    - text: Evaluated project submissions designed to teach students web development fundamentals (Javascript, CSS, HTML5) and popular web development frameworks (i.e React, Redux,Express).
     - text: Invested in student success and provided thorough feedback and supporting resources.
 - layout: left
   company: Rival Technologies

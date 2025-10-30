@@ -1,10 +1,10 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: DelaineWTan/delainewtan.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Delaine Tan
-title: Software Developer
+title: Game Developer
 email: dtan32@my.bcit.ca
 phone: 604-417-6790
 # leaving commented out to keep track of options

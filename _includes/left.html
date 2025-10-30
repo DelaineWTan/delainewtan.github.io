@@ -3,6 +3,9 @@
         {%- if include.item.name -%}
         <h4>
             {{ include.item.name }}
+            {%- if include.item.link -%}
+            <a href="{{include.item.link }}" class="link no-print"><i class="fa fa-link"></i></a>
+            {%- endif -%}
         </h4>
         {%- endif -%}
         {%- if include.item.qualification -%}<h4>{{ include.item.qualification }}</h4>{%- endif -%}
@@ -18,7 +21,7 @@
         <a href="https://github.com/{{ include.item.github }}" class="link"><i class="fa fa-github"></i> <span class="print-only">https://github.com{{ include.item.github }}</span></a><br class="print-only">
         {%- endif -%}
         {%- if include.item.link -%}
-        <a href="{{include.item.link }}" class="link"><i class="fa fa-link"></i> <span class="print-only">{{include.item.link}}</span></a>
+        <a href="{{include.item.link }}" class="link print-only"><span class="print-only">{{include.item.link}}</span></a>
         {%- endif -%}
         {% for job in include.item.jobs %}
         <p><b>{{ job.title }}</b></p>

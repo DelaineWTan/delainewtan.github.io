@@ -1,31 +1,34 @@
-# Project template
+- layout: left
+  name: SyrupSaga
+  dates: Apr 2024 — Present
+  company: Personal Project
+  link: https://www.youtube.com/watch?v=g-oHjVlIwTI 
+  description: Top-down adventure game in C++ (Raylib) with custom ECS architecture, state machine AI, quest management, and extensible gameplay systems.
+
+- layout: left
+  name: BattleGhoti
+  dates: Jan 2025
+  company: Global Game Jam Vancouver 2025
+  link: https://cheesypudding.itch.io/battleghoti
+  description: Fishing gacha battler in Unity with gacha system, collection gallery, and tug-of-war battles. Led game design, system architecture, and gameplay balance.
+
 - layout: left
   name: Snacktuary
-  dates: Jan - Apr 2024
+  dates: Jan — Apr 2024
   company: Advanced Games Architecture Course (BCIT)
   link: https://github.com/DelaineWTan/Snactuary
-  # github: 
-  description_list:
-    - text: Project lead for a 6-person team; developed a cute 3D bullet hell single player game on IOS, loosely inspired by Vampire Survivors using Xcode, Swift and Blender.
-    - text: Handled project management, game design and creative direction, player controls, quality assurance and testing.
-    - text: Worked on SFX, VFX, background music and mentored all teammates by pair programming and code reviews for all features.
+  description: Led a 6-person team to deliver 3D bullet hell pet game on iOS (Xcode, Swift, Blender). Managed creative direction, QA/testing, and team mentorship.
+
 - layout: left
   name: Hakuna Banana
   dates: Jan 2024
   company: Global Game Jam Vancouver 2024
   link: https://delainetan.itch.io/hakuna-banana
-  # github: 
-  description_list:
-    - text: Project lead for a 5-person team; developed a lighthearted 2D turn-based local multiplayer platformer game on PC using Unity, C# and Visual Studio.
-    - text: Handled project management, game design and creative direction to fit the game jam theme "Make Me Laugh".
-    - text: Wrote the player state machine, turn management, finishing touches such as scoreboard, background image/music, SFX and builds stability. 
+  description: Led a 5-person team to create humorous 2D turn-based platformer in Unity. Implemented state machine, turn manager, and gameplay polish.
+
 - layout: left
   name: Immunity Reborn
-  dates: Sep - Dec 2023
-  company: Intro to Computer Games Development Course (BCIT)
+  dates: Sep — Dec 2023
+  company: Intro to Computer Games Development (BCIT)
   link: https://delainetan.itch.io/immunity-reborn
-  # github: 
-  description_list:
-    - text: Gameplay programmer for a 3-person team; developed a 3D fast-paced survival rogue-lite single player action RPG on PC using Unity, C# and Visual Studio.
-    - text: Created the ranged enemies and mini boss using state machines, developed prefab spawn management system, assisted in developing every part of the game.
-    - text: Single-handedly handled level design for 5 progressively more complex levels, SFX/VFX, background music, game balancing and difficulty settings. 
+  description: Developed enemy AI, wave spawning, and level design for 3D survival action RPG in Unity. Handled SFX/VFX, music, and balance systems.

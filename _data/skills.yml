@@ -1,12 +1,12 @@
-- layout: left
+- layout: top
   name: "Programming Languages:"
-  description: C#, C, Swift, Python, Javascript, HTML5, CSS, Java, SQL
-- layout: left
+  description: C++, C, Python, Javascript, C#, Swift, HTML5, CSS, Java, SQL, Bash
+- layout: top
   name: "Development Tools:"
-  description: Unity, XCode, Node.js, Express, React, Redux, Mocha, Firebase, Git, Github, Trello, Jira 
-- layout: left
-  name: "Data Storage Technologies:"
-  description: MySQL, PostgreSQL, DynamoDB, Firestore, MongoDB, Web Cookies/Local Storage, Mobile Cache Data
-- layout: left
+  description: Raylib, SDL3, Unity, XCode, Node.js, Express, React, Redux, Git, Ansible, Jira, Confluence
+- layout: top
+  name: "Data Storage & Infrastructure:"
+  description: PostgreSQL, MySQL, AWS S3, CEPH S3, DynamoDB, Firestore, MongoDB, Kafka, Clickhouse
+- layout: top
   name: "Workflow and Methodologies:"
-  description: Version Control, Machine Learning, Project Management, AGILE Development, Object Oriented Programming, Unit/Integration Testing
+  description: Version Control, ECS Architecture, State Machine AI, AGILE Development, Object Oriented Programming, Unit/Integration Testing, DevOps, CI/CD

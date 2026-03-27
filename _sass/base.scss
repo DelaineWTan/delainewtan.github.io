@@ -162,9 +162,16 @@ body {
 }
 
 .header-contianer {
-  margin-top:50px;
-}
+  margin-top: 50px;
 
+  h1 {
+    color: #5B2C6F;
+  }
+
+  h2 {
+    font-weight: 500;
+  }
+}
 .header-right {
   text-align: right;
 }
@@ -253,5 +260,9 @@ body {
 
     .no-print, .no-print * {
         display: none !important;
+    }
+
+    *, :after, :before {
+        color: inherit !important;
     }
 }

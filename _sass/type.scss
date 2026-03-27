@@ -50,17 +50,15 @@ h2 {
 }
 
 h3 {
-  font-weight: 300;
+  font-weight: 400;
   font-size: 3em;
   text-align: center;
-  border-top: groove 2px #CCCCCC;
-  padding-top: 10px;
-  border-bottom: groove 2px #CCCCCC;
-  padding-bottom: 10px;
+  border-top: 3px groove #CCCCCC;
+  padding: 10px 0;
+  border-bottom: 3px groove #CCCCCC;
   margin-bottom: 0;
 
   @media print {
-    padding: 10px 0;
     margin-bottom: 0;
   }
 }

@@ -84,6 +84,20 @@
           </a>
         </li>
         {%- endif -%}
+        {%- if site.itch_username -%}
+        <li>
+          <a target="_blank" href="https://{{ site.itch_username| cgi_escape | escape }}.itch.io" class="button button--sacnite button--round-l">
+            <i class="fa fa-gamepad" title="Itch.io link"></i>
+          </a>
+        </li>
+        {%- endif -%}
+        {%- if site.email -%}
+        <li>
+          <a target="_blank" href="mailto:{{ site.email }}" class="button button--sacnite button--round-l">
+            <i class="fa fa-envelope-o" title="Email link"></i>
+          </a>
+        </li>
+        {%- endif -%}
       </ul>
 
       <table>
@@ -106,7 +120,7 @@
         </tr>
         {%- endif -%}
         {%- if site.email -%}
-        <tr class="contact-info">
+        <tr class="contact-info print-only">
           <td><a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a></td>
           <td class="contact-icon"><i class="fa fa-envelope-o"></i></td>
         </tr>
@@ -115,6 +129,12 @@
         <tr class="contact-info">
           <td>Web:</td>
           <td>{% include a.html href=site.website %}{{ site.website | escape }}</td>
+        </tr>
+        {%- endif -%}
+        {%- if site.itch_username -%}
+        <tr class="contact-info print-only">
+          <td>https://{{ site.itch_username| cgi_escape | escape }}.itch.io</td>
+          <td class="contact-icon"><i class="fa fa-gamepad"></i></td>
         </tr>
         {%- endif -%}
       </table>

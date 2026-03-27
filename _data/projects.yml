@@ -1,9 +1,8 @@
 - layout: left
   name: SyrupSaga
-  dates: Apr 2024 — Present
-  company: Personal Project
-  link: https://www.youtube.com/watch?v=g-oHjVlIwTI 
-  description: Top-down adventure game in C++ (Raylib) with custom ECS architecture, state machine AI, quest management, and extensible gameplay systems.
+  dates: Sep 2025 — Present
+  company: Capstone Project
+  description: To be released late 2026. Top-down adventure game in C++ (Raylib) with custom ECS architecture, state machine AI, quest management, and extensible gameplay systems.
 
 - layout: left
   name: BattleGhoti

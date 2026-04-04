@@ -2,14 +2,7 @@
   name: SyrupSaga
   dates: Sep 2025 — Present
   company: Capstone Project
-  description: To be released late 2026. Top-down adventure game in C++ (Raylib) with custom ECS architecture, state machine AI, quest management, and extensible gameplay systems.
-
-- layout: left
-  name: BattleGhoti
-  dates: Jan 2025
-  company: Global Game Jam Vancouver 2025
-  link: https://cheesypudding.itch.io/battleghoti
-  description: Fishing gacha battler in Unity with gacha system, collection gallery, and tug-of-war battles. Led game design, system architecture, and gameplay balance.
+  description: C++17 (Raylib) adventure RPG with custom ECS game engine. Built procedural graph generation linking TMX maps by biome/exit constraints, entity systems for physics, collision, and AI.
 
 - layout: left
   name: Snacktuary
@@ -19,15 +12,26 @@
   description: Led a 6-person team to deliver 3D bullet hell pet game on iOS (Xcode, Swift, Blender). Managed creative direction, QA/testing, and team mentorship.
 
 - layout: left
-  name: Hakuna Banana
-  dates: Jan 2024
-  company: Global Game Jam Vancouver 2024
-  link: https://delainetan.itch.io/hakuna-banana
-  description: Led a 5-person team to create humorous 2D turn-based platformer in Unity. Implemented state machine, turn manager, and gameplay polish.
-
-- layout: left
   name: Immunity Reborn
   dates: Sep — Dec 2023
   company: Intro to Computer Games Development (BCIT)
   link: https://delainetan.itch.io/immunity-reborn
   description: Developed enemy AI, wave spawning, and level design for 3D survival action RPG in Unity. Handled SFX/VFX, music, and balance systems.
+
+- layout: left
+  name: Recent Game Jams
+  dates: 2024 - Present
+  company: Itch.io
+  link: https://delainetan.itch.io/
+  description: |
+    **Ori and the Blue Ocean** (Gone Fishing Game Jam 2026, Godot Engine)  
+    2D fishing game, worked on sound and gameplay systems. Team size of 2 and completed within 24 hours.
+
+    **Sloshed Simian** (Global Game Jam 2026, Unity Game Engine) 
+    Top-down adventure game, sole programmer plus game designer. Team size of 4 and completed within 24 hours.
+
+    **BattleGhoti** (Global Game Jam 2025, Unity Game Engine)  
+    Fishing gacha battler with collection gallery and tug-of-war battles. Game designer, systems architecture and gameplay balance. Team size of 4 and completed within 48 hours.
+
+    **Hakuna Banana** (Global Game Jam 2024, Unity Game Engine)  
+    Humorous 2D turn-based platformer. Implemented state machine, turn manager, and gameplay polish. Team size of 5 and completed within 48 hours.

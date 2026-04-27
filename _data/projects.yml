@@ -9,25 +9,16 @@
     combat, AI, and UI systems built from scratch. Features procedural map graph 
     generation, state machine–driven enemy and companion AI, combo-based combat, 
     and a data-driven JSON entity pipeline. Alpha test password: "alphatest".
-    
+
 - layout: left
   name: Last Harvest
   dates: Sep — Dec 2025
   company: Advanced Games Architecture Course (BCIT)
   link: https://delainetan.itch.io/last-harvest
   description: |
-    Co-developed a 2D isometric base defense RTS in C++20 and SDL3 with a 3-person team.
-    Built the UI system, placement system with unified ghost refactor, scene management,
-    and resource management on a custom data-oriented ECS engine with isometric rendering
-    and depth sorting. Eliminated mode-switching access violations through state-based
-    component design.
-
-- layout: left
-  name: Snacktuary
-  dates: Jan — Apr 2024
-  company: Advanced Games Architecture Course (BCIT)
-  link: https://github.com/DelaineWTan/Snactuary
-  description: Led a 6-person team to deliver 3D bullet hell pet game on iOS (Xcode, Swift, Blender). Managed creative direction, QA/testing, and team mentorship.
+    Co-developed a 2D isometric base defense RTS in C++20 and SDL3 with a 3-person team
+    on a custom ECS engine. Owned UI, scene management, resource management, and a
+    placement system refactor that eliminated mode-switching crashes.
 
 - layout: left
   name: Immunity Reborn
